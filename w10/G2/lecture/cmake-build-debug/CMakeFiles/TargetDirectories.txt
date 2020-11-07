@@ -1,0 +1,4 @@
+/Users/bsnbk/Documents/KBTU/2020/pp1/w10/G2/lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w10/G2/lecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w10/G2/lecture/cmake-build-debug/CMakeFiles/lecture2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w10/G2/lecture/cmake-build-debug/CMakeFiles/lecture.dir
