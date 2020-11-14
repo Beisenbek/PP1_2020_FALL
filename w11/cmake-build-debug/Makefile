@@ -76,17 +76,6 @@ CMAKE_BINARY_DIR = /Users/bsnbk/Documents/KBTU/2020/pp1/w11/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -97,6 +86,17 @@ rebuild_cache:
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -131,6 +131,84 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 2
+
+# Build rule for target.
+2 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2
+.PHONY : 2
+
+# fast build rule for target.
+2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
+.PHONY : 2/fast
+
+#=============================================================================
+# Target rules for targets named 9
+
+# Build rule for target.
+9 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 9
+.PHONY : 9
+
+# fast build rule for target.
+9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/build
+.PHONY : 9/fast
+
+#=============================================================================
+# Target rules for targets named example6_2
+
+# Build rule for target.
+example6_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 example6_2
+.PHONY : example6_2
+
+# fast build rule for target.
+example6_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6_2.dir/build.make CMakeFiles/example6_2.dir/build
+.PHONY : example6_2/fast
+
+#=============================================================================
+# Target rules for targets named 7
+
+# Build rule for target.
+7 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 7
+.PHONY : 7
+
+# fast build rule for target.
+7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/build
+.PHONY : 7/fast
+
+#=============================================================================
+# Target rules for targets named 1
+
+# Build rule for target.
+1 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1
+.PHONY : 1
+
+# fast build rule for target.
+1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/build
+.PHONY : 1/fast
+
+#=============================================================================
+# Target rules for targets named example6
+
+# Build rule for target.
+example6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 example6
+.PHONY : example6
+
+# fast build rule for target.
+example6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6.dir/build.make CMakeFiles/example6.dir/build
+.PHONY : example6/fast
+
+#=============================================================================
 # Target rules for targets named 5
 
 # Build rule for target.
@@ -142,6 +220,32 @@ depend:
 5/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/build
 .PHONY : 5/fast
+
+#=============================================================================
+# Target rules for targets named 10
+
+# Build rule for target.
+10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 10
+.PHONY : 10
+
+# fast build rule for target.
+10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/build
+.PHONY : 10/fast
+
+#=============================================================================
+# Target rules for targets named 8
+
+# Build rule for target.
+8 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 8
+.PHONY : 8
+
+# fast build rule for target.
+8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/build
+.PHONY : 8/fast
 
 #=============================================================================
 # Target rules for targets named 4
@@ -169,45 +273,6 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/build
 .PHONY : 3/fast
 
-#=============================================================================
-# Target rules for targets named example6
-
-# Build rule for target.
-example6: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 example6
-.PHONY : example6
-
-# fast build rule for target.
-example6/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6.dir/build.make CMakeFiles/example6.dir/build
-.PHONY : example6/fast
-
-#=============================================================================
-# Target rules for targets named 2
-
-# Build rule for target.
-2 : cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2
-.PHONY : 2
-
-# fast build rule for target.
-2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
-.PHONY : 2/fast
-
-#=============================================================================
-# Target rules for targets named 1
-
-# Build rule for target.
-1 : cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1
-.PHONY : 1
-
-# fast build rule for target.
-1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/build
-.PHONY : 1/fast
-
 1.o: 1.cpp.o
 
 .PHONY : 1.o
@@ -234,6 +299,33 @@ example6/fast:
 1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/1.cpp.s
 .PHONY : 1.cpp.s
+
+10.o: 10.cpp.o
+
+.PHONY : 10.o
+
+# target to build an object file
+10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/10.cpp.o
+.PHONY : 10.cpp.o
+
+10.i: 10.cpp.i
+
+.PHONY : 10.i
+
+# target to preprocess a source file
+10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/10.cpp.i
+.PHONY : 10.cpp.i
+
+10.s: 10.cpp.s
+
+.PHONY : 10.s
+
+# target to generate assembly for a file
+10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/10.cpp.s
+.PHONY : 10.cpp.s
 
 2.o: 2.cpp.o
 
@@ -370,6 +462,117 @@ example6/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6.dir/build.make CMakeFiles/example6.dir/6.cpp.s
 .PHONY : 6.cpp.s
 
+6_2.o: 6_2.cpp.o
+
+.PHONY : 6_2.o
+
+# target to build an object file
+6_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6_2.dir/build.make CMakeFiles/example6_2.dir/6_2.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/6_2.cpp.o
+.PHONY : 6_2.cpp.o
+
+6_2.i: 6_2.cpp.i
+
+.PHONY : 6_2.i
+
+# target to preprocess a source file
+6_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6_2.dir/build.make CMakeFiles/example6_2.dir/6_2.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/6_2.cpp.i
+.PHONY : 6_2.cpp.i
+
+6_2.s: 6_2.cpp.s
+
+.PHONY : 6_2.s
+
+# target to generate assembly for a file
+6_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/example6_2.dir/build.make CMakeFiles/example6_2.dir/6_2.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/6_2.cpp.s
+.PHONY : 6_2.cpp.s
+
+7.o: 7.cpp.o
+
+.PHONY : 7.o
+
+# target to build an object file
+7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/7.cpp.o
+.PHONY : 7.cpp.o
+
+7.i: 7.cpp.i
+
+.PHONY : 7.i
+
+# target to preprocess a source file
+7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/7.cpp.i
+.PHONY : 7.cpp.i
+
+7.s: 7.cpp.s
+
+.PHONY : 7.s
+
+# target to generate assembly for a file
+7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/7.cpp.s
+.PHONY : 7.cpp.s
+
+8.o: 8.cpp.o
+
+.PHONY : 8.o
+
+# target to build an object file
+8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/8.cpp.o
+.PHONY : 8.cpp.o
+
+8.i: 8.cpp.i
+
+.PHONY : 8.i
+
+# target to preprocess a source file
+8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/8.cpp.i
+.PHONY : 8.cpp.i
+
+8.s: 8.cpp.s
+
+.PHONY : 8.s
+
+# target to generate assembly for a file
+8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/8.cpp.s
+.PHONY : 8.cpp.s
+
+9.o: 9.cpp.o
+
+.PHONY : 9.o
+
+# target to build an object file
+9.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/9.cpp.o
+.PHONY : 9.cpp.o
+
+9.i: 9.cpp.i
+
+.PHONY : 9.i
+
+# target to preprocess a source file
+9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/9.cpp.i
+.PHONY : 9.cpp.i
+
+9.s: 9.cpp.s
+
+.PHONY : 9.s
+
+# target to generate assembly for a file
+9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/9.cpp.s
+.PHONY : 9.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -379,14 +582,22 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 1"
+	@echo "... 10"
 	@echo "... 2"
 	@echo "... 3"
 	@echo "... 4"
 	@echo "... 5"
+	@echo "... 7"
+	@echo "... 8"
+	@echo "... 9"
 	@echo "... example6"
+	@echo "... example6_2"
 	@echo "... 1.o"
 	@echo "... 1.i"
 	@echo "... 1.s"
+	@echo "... 10.o"
+	@echo "... 10.i"
+	@echo "... 10.s"
 	@echo "... 2.o"
 	@echo "... 2.i"
 	@echo "... 2.s"
@@ -402,6 +613,18 @@ help:
 	@echo "... 6.o"
 	@echo "... 6.i"
 	@echo "... 6.s"
+	@echo "... 6_2.o"
+	@echo "... 6_2.i"
+	@echo "... 6_2.s"
+	@echo "... 7.o"
+	@echo "... 7.i"
+	@echo "... 7.s"
+	@echo "... 8.o"
+	@echo "... 8.i"
+	@echo "... 8.s"
+	@echo "... 9.o"
+	@echo "... 9.i"
+	@echo "... 9.s"
 .PHONY : help
 
 
