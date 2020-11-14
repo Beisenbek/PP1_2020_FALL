@@ -1,5 +1,13 @@
 /Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex3.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex8_2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex9.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex8.dir
 /Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex7_2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex7.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex6.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex5.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex4.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex3.dir
 /Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex1.dir
