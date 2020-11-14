@@ -1,0 +1,5 @@
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex3.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w11/g2/cmake-build-debug/CMakeFiles/ex1.dir
