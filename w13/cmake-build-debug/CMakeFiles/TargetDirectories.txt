@@ -1,0 +1,14 @@
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/12.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/11.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/2.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/9.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/6.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/7.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/1.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/5.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/10.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/8.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/4.dir
+/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/CMakeFiles/3.dir

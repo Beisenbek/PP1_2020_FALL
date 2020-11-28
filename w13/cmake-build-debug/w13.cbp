@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="w13"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 12"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 12/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 11"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 11/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 9"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 9/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 6/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 7"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 7/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 5/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 10"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 10/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 8"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 8/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3/fast">
+				<Option output="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 3/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bsnbk/Documents/KBTU/2020/pp1/w13/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/1.cpp">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/10.cpp">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/11.cpp">
+			<Option target="11"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/12.cpp">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/2.cpp">
+			<Option target="2"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/3.cpp">
+			<Option target="3"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/4.cpp">
+			<Option target="4"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/5.cpp">
+			<Option target="5"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/6.cpp">
+			<Option target="6"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/7.cpp">
+			<Option target="7"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/8.cpp">
+			<Option target="8"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/9.cpp">
+			<Option target="9"/>
+		</Unit>
+		<Unit filename="/Users/bsnbk/Documents/KBTU/2020/pp1/w13/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
