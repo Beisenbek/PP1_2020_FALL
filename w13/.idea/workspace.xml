@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="w13" targetName="10" />
+      <config projectName="w13" targetName="11" />
+      <config projectName="w13" targetName="9" />
+      <config projectName="w13" targetName="7" />
+      <config projectName="w13" targetName="8" />
+      <config projectName="w13" targetName="5" />
+      <config projectName="w13" targetName="6" />
+      <config projectName="w13" targetName="3" />
+      <config projectName="w13" targetName="4" />
+      <config projectName="w13" targetName="1" />
+      <config projectName="w13" targetName="12" />
+      <config projectName="w13" targetName="2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b04fd18a-f439-48d7-b671-1eb19fef051d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/w13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ku2xD89jJLplet7mYIsDWEtgjJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.12">
+    <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="w13" TARGET_NAME="9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="w13" RUN_TARGET_NAME="9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.1" />
+      <item itemvalue="CMake Application.10" />
+      <item itemvalue="CMake Application.11" />
+      <item itemvalue="CMake Application.12" />
+      <item itemvalue="CMake Application.2" />
+      <item itemvalue="CMake Application.3" />
+      <item itemvalue="CMake Application.4" />
+      <item itemvalue="CMake Application.5" />
+      <item itemvalue="CMake Application.6" />
+      <item itemvalue="CMake Application.7" />
+      <item itemvalue="CMake Application.8" />
+      <item itemvalue="CMake Application.9" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b04fd18a-f439-48d7-b671-1eb19fef051d" name="Default Changelist" comment="" />
+      <created>1606536401019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606536401019</updated>
+      <workItem from="1606536404593" duration="6029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="208" key="GridCell.Tab.0.bottom" timestamp="1606543324856">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1638" height="208" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1606543324856" />
+    <state width="1638" height="208" key="GridCell.Tab.0.center" timestamp="1606543324855">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1638" height="208" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1606543324855" />
+    <state width="1638" height="208" key="GridCell.Tab.0.left" timestamp="1606543324854">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1638" height="208" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1606543324854" />
+    <state width="1638" height="208" key="GridCell.Tab.0.right" timestamp="1606543324856">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1638" height="208" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1606543324856" />
+  </component>
+</project>
