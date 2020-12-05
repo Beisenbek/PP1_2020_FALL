@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.17)
+project(g2)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(01 1.cpp)
+add_executable(02 2.cpp)
+add_executable(03 3.cpp)
+add_executable(04 4.cpp)
+add_executable(05 5.cpp)
+add_executable(06 6.cpp)
+add_executable(07 7.cpp)
+add_executable(08 8.cpp)
+add_executable(09 9.cpp)
+add_executable(10 10.cpp)
+add_executable(11 11.cpp)
+add_executable(lab_9_l lab_9_l.cpp)
